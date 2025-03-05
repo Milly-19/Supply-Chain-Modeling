@@ -1,0 +1,23 @@
+Investment,Inflow,Outflow,Amount,Return,1,2,3,4,5,6,7,8,9,10,,,,
+FudgeFund Futures,1,2,0,2%,-1,1.0199,,,,,,,,,,,,
+Jellybean Junction Capital,1,3,655.3169037,4%,-1,,1.0421,,,,,,,,,,,
+Peppermint Profit Partners,1,6,225.4079885,11%,-1,,,<--->,<--->,1.1091,,,,,,,,
+FudgeFund Futures,2,3,0,2%,,-1,1.0199,,,,,,,,,,,
+Licorice Leverage Group,2,5,0,6%,,-1,,,1.0643,,,,,,investment_name,Return,month_can_start_investing,Mature
+FudgeFund Futures,3,4,0,2%,,,-1,1.0199,,,,,,,FudgeFund Futures,0.0199,1,1
+Jellybean Junction Capital,3,5,0,4%,,,-1,,1.0421,,,,,,Jellybean Junction Capital,0.0421,1,2
+Marshmallow Margin Group,3,7,432.9057453,9%,,,-1,,,<--->,1.0867,,,,Licorice Leverage Group,0.0643,2,3
+FudgeFund Futures,4,5,0,2%,,,,-1,1.0199,,,,,,Marshmallow Margin Group,0.0867,3,4
+FudgeFund Futures,5,6,0,2%,,,,,-1,1.0199,,,,,Peppermint Profit Partners,0.1091,1,5
+Jellybean Junction Capital,5,7,0,4%,,,,,-1,,1.0421,,,,,,,
+Licorice Leverage Group,5,8,0,6%,,,,,-1,,,1.0643,,,,,,
+FudgeFund Futures,6,7,0,2%,,,,,,-1,1.0199,,,,final_payment_start_of_year,first_payment_year,second_payment_year,
+FudgeFund Futures,7,8,0,2%,<--->,<--->,<--->,<--->,<--->,<--->,-1,1.0199,,,10,3,6,
+Jellybean Junction Capital,7,9,470.4386734,4%,<--->,<--->,<--->,<--->,<--->,<--->,-1,<--->,1.0421,,500,250,250,
+FudgeFund Futures,8,9,0,2%,<--->,<--->,<--->,<--->,<--->,<--->,<--->,-1,1.0199,,,,,
+FudgeFund Futures,9,10,490.2441416,2%,<--->,<--->,<--->,<--->,<--->,<--->,<--->,<--->,-1,1.0199,,,,
+total investment in month 1->,,,880.7248921,Surplus Funds,,$0.00,$250.00,$0.00,$0.00,$250.00,$0.00,$0.00,$0.00,$500.00,,,,
+,,,,Req'd Payment,,$0.00,$250.00,$0.00,$0.00,$250.00,$0.00,$0.00,$0.00,$500.00,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,1,2,3,4,5,6,7,,,,,,,
