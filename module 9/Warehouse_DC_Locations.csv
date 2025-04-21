@@ -1,0 +1,11 @@
+name,latitude,longitude,type,demand_or_cost
+Coconut Cream Cove,27.07,-109.12,Warehouse,1600
+Cherry Jubilee Junction,25.56,-90.2,Warehouse,2269
+Frozen Fudge Fjords,33.48,-100.91,Warehouse,1092
+Candy Cane Canyon,46.46,-100.97,Warehouse,1361
+Mochi Metropolis,32.91,-114.52,Distribution Center,835
+Mallow Melt Mountains,24.99,-94.29,Distribution Center,591
+Nougat Nook,46.89,-122.79,Distribution Center,633
+Soda Pop Springs,35.26,-96.64,Distribution Center,729
+Praline Park,38.15,-81.87,Distribution Center,653
+Marzipan Metropolis,26.6,-80.29,Distribution Center,542
